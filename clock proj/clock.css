@@ -1,0 +1,29 @@
+
+body {
+    background-color: black;
+	color: yellow;
+font-size:100px;
+}
+p {
+    text-align: center;
+	font-size: 200%;
+}
+
+img {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+h1 {
+
+color: blue;
+font-family: "Comic Sans";
+}
+
+.center {
+    text-align: center;
+	font-size:150%;
+}
+
+
+ 
